@@ -1,7 +1,6 @@
 {
   "name": "hubot",
   "version": "2.11.0",
-
   "author": "hubot",
   "keywords": [
     "github",
@@ -22,11 +21,12 @@
   },
   "dependencies": {
     "coffee-script": "1.6.3",
-    "optparse": "1.0.4",
-    "scoped-http-client": "0.10.0",
-    "log": "1.4.0",
     "express": "3.18.1",
-    "readline-history": "~1.2.0"
+    "log": "1.4.0",
+    "optparse": "1.0.4",
+    "readline-history": "~1.2.0",
+    "scoped-http-client": "0.10.0",
+    "xml2js": "^0.4.5"
   },
   "engines": {
     "node": ">= 0.8.x",
