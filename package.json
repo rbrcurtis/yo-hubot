@@ -22,6 +22,7 @@
   "dependencies": {
     "coffee-script": "1.6.3",
     "express": "3.18.1",
+    "hubot-scripts": "^2.5.16",
     "log": "1.4.0",
     "optparse": "1.0.4",
     "readline-history": "~1.2.0",
