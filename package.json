@@ -20,6 +20,7 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
+    "cheerio": "^0.18.0",
     "coffee-script": "1.6.3",
     "express": "3.18.1",
     "hubot-purecloud": "git+https://git@github.com/rbrcurtis/hubot-purecloud.git",
