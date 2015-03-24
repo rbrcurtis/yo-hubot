@@ -19,6 +19,6 @@ module.exports = (robot) ->
   robot.hear /calm down|simmer down|that escalated quickly/i, (msg) ->
     msg.send manatee()
 
-  robot.hear ///
-    (\b([A-Z]{2,}\s+)([A-Z]{2,})\b)|(\b[A-Z]{10,}\b)
-  ///, (msg) -> msg.send manatee()
+  robot.hear ///(\b([A-Z]{2,}\s+)([A-Z]{2,})\b)|(\b[A-Z]{10,}\b)///, (msg) -> 
+  	if msg.message.text.replace(/[^a-z]/gi, '').match /^[A-Z]+$/
+  		msg.send manatee()
