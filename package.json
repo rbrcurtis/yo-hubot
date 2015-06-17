@@ -23,6 +23,7 @@
     "cheerio": "^0.18.0",
     "coffee-script": "1.6.3",
     "express": "3.18.1",
+    "hubot-jiralink-script": "git+https://git@github.com/rbrcurtis/hubot-jiralink-script.git",
     "hubot-purecloud": "git+https://git@github.com/rbrcurtis/hubot-purecloud.git",
     "hubot-scripts": "^2.5.16",
     "log": "1.4.0",
