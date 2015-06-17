@@ -1,1 +1,9 @@
-["hubot-jiralink-script"]
+[
+  "hubot-jiralink-script",
+  "hubot-standup-alarm",
+  "hubot-rules",
+  "hubot-victory",
+  "hubot-thank-you",
+  "hubot-help",
+  "hubot-dogeme"
+]
