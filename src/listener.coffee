@@ -41,7 +41,7 @@ class TextListener extends Listener
     @matcher = (message) =>
       if message instanceof TextMessage
         message.match @regex
-      else console.error 'not a TextMessage'
+      else console.error 'not a TextMessage', message
 
 module.exports = {
   Listener
