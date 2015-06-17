@@ -8,5 +8,6 @@
   "applause.coffee",
   "advice.coffee",
   "auto-stache.coffee",
-  "jira.coffee"
+  "jira.coffee",
+  "redis-brain.coffee"
 ]
