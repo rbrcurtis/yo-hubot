@@ -1,10 +1,18 @@
 [
-  "hubot-jiralink-script",
-  "hubot-standup-alarm",
-  "hubot-rules",
-  "hubot-victory",
-  "hubot-thank-you",
-  "hubot-help",
+  "hubot-diagnostics",
   "hubot-dogeme",
-  "hubot-remind-her"
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-help",
+  "hubot-heroku-keepalive",
+  "hubot-jiralink-script",
+  "hubot-maps",
+  "hubot-pugme",
+  "hubot-redis-brain",
+  "hubot-remind-her",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-standup-alarm",
+  "hubot-thank-you",
+  "hubot-victory"
 ]
