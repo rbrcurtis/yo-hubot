@@ -27,6 +27,7 @@
     "hubot-help": "^0.1.1",
     "hubot-jiralink-script": "git+https://git@github.com/rbrcurtis/hubot-jiralink-script.git",
     "hubot-purecloud": "git+https://git@github.com/rbrcurtis/hubot-purecloud.git",
+    "hubot-remind-her": "^0.4.1",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.5.16",
     "hubot-standup-alarm": "git+https://git@github.com/brandenbyers/hubot-standup-alarm",
