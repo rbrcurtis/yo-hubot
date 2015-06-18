@@ -16,7 +16,6 @@
     "hubot-pugme": "^0.1.0",
     "hubot-purecloud": "git+https://git@github.com/rbrcurtis/hubot-purecloud.git",
     "hubot-redis-brain": "0.0.3",
-    "hubot-remind-her": "^0.4.1",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.2.0",
