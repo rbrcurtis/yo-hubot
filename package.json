@@ -1,11 +1,12 @@
 {
-  "name": "hubot",
+  "name": "yobot",
   "version": "0.0.0",
   "private": true,
   "author": "brandenbyers <branden@brandenbyers.com>",
   "description": "Directory Bot",
   "dependencies": {
-    "hubot": "^2.13.2",
+    "express-ws": "^0.2.6",
+    "hubot": "latest",
     "hubot-diagnostics": "0.0.1",
     "hubot-dogeme": "^1.0.0",
     "hubot-google-images": "^0.1.5",
